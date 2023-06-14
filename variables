@@ -1,0 +1,8 @@
+age=12
+print(age)
+
+weight=50
+print(weight)
+
+height=161
+print(height)
